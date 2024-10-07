@@ -1,2 +1,2 @@
-# SoccerCVProj1
-CV Soccer AI - Projections and Voronoi Diagram Analysis
+# Soccer Computer Vision Project
+CV Soccer AI - Projections and Voronoi Diagram Analysis.
